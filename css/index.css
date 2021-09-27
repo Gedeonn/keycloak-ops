@@ -77,6 +77,13 @@
     color: white;
   }
 
+  .desc {
+    text-align: center;
+    padding-top: 100px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: large;
+  }
   .content-nav {
       width: 600px;
       padding-top:10px;
